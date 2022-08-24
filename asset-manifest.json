@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/hyxndovk/instagram_clone.git/static/css/main.a455ebdc.css",
-    "main.js": "/hyxndovk/instagram_clone.git/static/js/main.7f2b15df.js",
-    "static/media/gotogoogleplay.png": "/hyxndovk/instagram_clone.git/static/media/gotogoogleplay.c0a603f08fc7b9f3f587.png",
-    "index.html": "/hyxndovk/instagram_clone.git/index.html",
-    "main.a455ebdc.css.map": "/hyxndovk/instagram_clone.git/static/css/main.a455ebdc.css.map",
-    "main.7f2b15df.js.map": "/hyxndovk/instagram_clone.git/static/js/main.7f2b15df.js.map"
+    "main.css": "/instagram_clone/static/css/main.a455ebdc.css",
+    "main.js": "/instagram_clone/static/js/main.65733133.js",
+    "static/media/gotogoogleplay.png": "/instagram_clone/static/media/gotogoogleplay.c0a603f08fc7b9f3f587.png",
+    "index.html": "/instagram_clone/index.html",
+    "main.a455ebdc.css.map": "/instagram_clone/static/css/main.a455ebdc.css.map",
+    "main.65733133.js.map": "/instagram_clone/static/js/main.65733133.js.map"
   },
   "entrypoints": [
     "static/css/main.a455ebdc.css",
-    "static/js/main.7f2b15df.js"
+    "static/js/main.65733133.js"
   ]
 }
